@@ -30,6 +30,9 @@
                         "/": "/ebm-resources/public/auth-app-parkland/client/index.html*"
                     },
                     {
+                        "/": "/ebm-resources/public/auth-app-meetings/client/index.html*"
+                    },
+                    {
                         "/": "/ebm-resources/public/help-center/client/index.html*"
                     },
                     {
@@ -70,10 +73,16 @@
                         "/": "/ebm-resources/public/digital-cart/client/credit-card.html*"
                     },
                     {
+                        "/": "/ebm-resources/public/digital-cart/credit-card/client/index.html*"
+                    },
+                    {
                         "/": "/ebm-resources/public/digital-cart/smart-plus-bundle/client/index.html*"
                     },
                     {
                         "/": "/ebm-resources/public/digital-cart/client/smart-youth.html*"
+                    },
+                    {
+                        "/": "/ebm-resources/public/digital-cart/smart-youth/client/index.html*"
                     },
                     {
                         "/": "/ebm-resources/public/digital-cart/cross-sell/client/index.html*"
@@ -85,8 +94,20 @@
                         "/": "/ebm-resources/public/cibc-auth-apps/ie-dco/postsignon/client/index.html*"
                     },
                     {
+                        "/": "/ebm-resources/public/cibc-auth-apps/auto-loan-reverse/postsignon/client/index.html*"
+                    },
+                    {
+                        "/": "/ebm-resources/public/digital-cart/product-selector/client/index.html*"
+                    },
+                    {
+                        "/": "/ebm-resources/public/digital-cart/franchising-bundle/client/index.html*"
+                    },
+                    {
+                        "/": "/ebm-resources/online-banking/accounts/client/index.html*"
+                    },
+		    {
                         "/": "/ebm-resources/public/cibc-auth-apps/travel/postsignon/client/index.html*"
-                    }
+		    }
                 ]
             },
 {
@@ -104,6 +125,8 @@
                     "/ebm-resources/public/simplii/online-banking/transfers/client/index.html*",
                     "/ebm-resources/public/simplii/digital-cart/new/client/index.html*",
                     "/ebm-resources/public/simplii/digital-cart/existing/client/index.html*",
+                    "/ebm-resources/public/simplii/online-banking/services/client/index.html*",
+                    "/ebm-resources/public/simplii/online-banking/accounts/client/index.html*",
                     "NOT /ebm-resources/public/secure-key/"
                 ]
             },
@@ -122,6 +145,8 @@
                     "/ebm-resources/public/simplii/online-banking/transfers/client/index.html*",
                     "/ebm-resources/public/simplii/digital-cart/new/client/index.html*",
                     "/ebm-resources/public/simplii/digital-cart/existing/client/index.html*",
+                    "/ebm-resources/public/simplii/online-banking/services/client/index.html*",
+                    "/ebm-resources/public/simplii/online-banking/accounts/client/index.html*",
                     "NOT /ebm-resources/public/secure-key/*"
                 ]
             }
